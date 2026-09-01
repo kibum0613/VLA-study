@@ -148,6 +148,12 @@ LIBERO environment step
 
 Pretrained checkpoint를 LIBERO 환경과 연결해 simulation observation → action prediction → environment step이 반복되는 closed-loop 실행까지 성공함.
 
+### 9.1 Closed-loop rollout 영상
+
+실제로 실행한 LIBERO closed-loop rollout 영상임.
+
+- [closed_loop_openvla.mp4](../assets/videos/closed_loop_openvla.mp4)
+
 ## 10. 실습에서 관찰한 문제
 
 Fine-tuning 없이 pretrained checkpoint를 바로 사용했을 때 물체를 정확히 grasp하기보다 제자리에서 gripper가 반복적으로 동작하는 현상이 나타남.
