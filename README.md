@@ -2,7 +2,7 @@
 
 Vision-Language-Action(VLA), Physical AI, Robot Learning을 공부하고 직접 실험한 내용을 정리하는 저장소입니다.
 
-단순 논문 요약보다 **모델 구조를 이해하고 실제 LIBERO-Plus 벤치마크에서 재현·비교한 결과**를 중심으로 기록합니다.
+모델 구조를 이해하고 실제 LIBERO-Plus 벤치마크에서 재현·비교한 결과를 중심으로 기록합니다.
 
 ## Contents
 
